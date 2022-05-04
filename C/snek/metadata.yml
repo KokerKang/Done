@@ -1,0 +1,12 @@
+---
+:id: 110112427
+:submitters:
+- :name: Hyung Wook (Henry) Kang
+  :email: khu11189@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-09 02:17:27.474886000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-08 18:17:27.474886000 Z
+:status: processed
+:score: 100.0

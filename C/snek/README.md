@@ -1,0 +1,6 @@
+# 61C Spring 2022 Project 1: Snake
+
+Spec: [https://cs61c.org/sp22/projects/proj1/](https://cs61c.org/sp22/projects/proj1/)
+
+TODO: describe what you did
+    In the first task 1, it took a lot of time to understand the project and to understand the structure of what struct was used. I think it took about 6 hours. After that, until task 5, each tasks seems to have taken 2 to 3 hours, and it took about 4 hours because there were a lot of concepts I didn't know in step 6. Also, in the final arrangement, I did not spend 2 days continuously, but it seems that 2 days was spent visiting office hours and asking TAs about the concept. In the case of a bug, when I used the realloc function, it took a long time to fix the segmentation error right away because I misunderstood the concept in parameter. The most difficult part was the load part. There were a lot more things to think about than I thought, and there were a lot of subtle tricky parts. The most fun part was finding the head. I solved it using the functions I wrote before, and it felt good that it worked. The easiest part was the helperfunction part for updating in #4. And the least interesting part was the initialize_snake part. The reason is that most of the errors occurred here.
