@@ -1,0 +1,13 @@
+---
+:id: 57782457
+:submitters:
+- :name: Henry Kang
+  :email: khu11189@berkeley.edu
+- :name: Taemin Kim
+  :email: xoals883@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-02 02:28:00.405855000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-01 18:28:00.405855000 Z
+:status: processed
